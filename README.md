@@ -1,6 +1,7 @@
 # qa_portfolio
 This is my AI generated website version of my CV.
-Latest improvements:
+
+## Implemented improvements
 - Responsive navigation: a touch-friendly menu on phones and portrait tablets.
 - Better screen fitting: content and cards adapt to narrow screens to reduce unwanted horizontal scrolling.
 - Touch-friendly controls: larger tap targets for menu items and buttons.
