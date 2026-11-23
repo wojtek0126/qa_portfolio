@@ -1,5 +1,5 @@
 # qa_portfolio
-This is my AI generated website version of my CV.
+This is my AI generated website version of my CV. Live: https://wojtek0126.github.io/qa_portfolio/
 
 ## Implemented improvements
 - Responsive navigation: a touch-friendly menu on phones and portrait tablets.
